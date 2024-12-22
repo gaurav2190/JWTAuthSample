@@ -795,11 +795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaura\\Documents\\Learning\\asp.net core\\JWTAuth\\JWTAuth.csproj",
+      "projectUniqueName": "C:\\Users\\gaura\\Documents\\GitHub\\JWTAuth\\JWTAuth\\JWTAuth.csproj",
       "projectName": "JWTAuth",
-      "projectPath": "C:\\Users\\gaura\\Documents\\Learning\\asp.net core\\JWTAuth\\JWTAuth.csproj",
+      "projectPath": "C:\\Users\\gaura\\Documents\\GitHub\\JWTAuth\\JWTAuth\\JWTAuth.csproj",
       "packagesPath": "C:\\Users\\gaura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaura\\Documents\\Learning\\asp.net core\\JWTAuth\\obj\\",
+      "outputPath": "C:\\Users\\gaura\\Documents\\GitHub\\JWTAuth\\JWTAuth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gaura\\AppData\\Roaming\\NuGet\\NuGet.Config",
